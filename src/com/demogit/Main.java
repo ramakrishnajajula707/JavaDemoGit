@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println("Git Demo using IntelliJ");
 
+        System.out.println("One more statement added to existing class");
+
     }
 }
